@@ -1,6 +1,6 @@
 Package: snowquery
 Title: Query 'Snowflake' Databases with 'SQL'
-Version: 1.2.0
+Version: 1.2.1
 Authors@R: 
     person("Dani", "Mermelstein", , "dmermelstein@hey.com", role = c("aut", "cre", "cph"))
 Maintainer: Dani Mermelstein <dmermelstein@hey.com>
@@ -9,10 +9,10 @@ URL: https://github.com/mermelstein/snowquery
 BugReports: https://github.com/mermelstein/snowquery/issues
 Imports: reticulate, yaml, DBI, RPostgres, RSQLite
 Encoding: UTF-8
-RoxygenNote: 7.2.3
+RoxygenNote: 7.3.1
 License: GPL (>= 3)
 NeedsCompilation: no
-Packaged: 2024-05-08 16:32:57 UTC; dani
+Packaged: 2024-10-02 18:55:58 UTC; dani
 Author: Dani Mermelstein [aut, cre, cph]
 Repository: CRAN
-Date/Publication: 2024-05-08 17:00:02 UTC
+Date/Publication: 2024-10-02 20:00:02 UTC
