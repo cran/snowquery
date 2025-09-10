@@ -4,9 +4,9 @@
 \name{snowquery-package}
 \alias{snowquery}
 \alias{snowquery-package}
-\title{snowquery: Query 'Snowflake' Databases with 'SQL'}
+\title{snowquery: SQL Interface to 'Snowflake', 'Redshift', 'Postgres', 'SQLite', and 'DuckDB'}
 \description{
-A wrapper allowing 'SQL' queries to be run on a 'Snowflake' instance directly from an 'R' script, by using the 'snowflake-connector-python' package in the background.
+Run 'SQL' queries across 'Snowflake', 'Amazon Redshift', 'PostgreSQL', 'SQLite', and 'DuckDB' from R with a single function. Optionally stream and cache large query results to a local 'DuckDB' database for efficient work with larger-than-memory datasets.
 }
 \seealso{
 Useful links:
